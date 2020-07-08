@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- cherries
+- books
+- pretty clothes
+  * and pretty shoes!
+- and NOT github, github sucks :sparkles:
