@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like coding in **Python** and a little bit in **Java** to investigate data and solve problems! I am a *scientist* not a *developer* :smile: but there is *always* so much **more** to learn!
